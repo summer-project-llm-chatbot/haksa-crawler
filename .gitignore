@@ -1,0 +1,30 @@
+# --- Virtualenv / Python env ---
+venv/
+.env
+
+# --- Byte-compiled / caches ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Test / coverage ---
+.pytest_cache/
+.coverage
+htmlcov/
+
+# --- MyPy / type checking ---
+.mypy_cache/
+
+# --- Playwright artifacts ---
+playwright-report/
+test-results/
+
+# --- IDE / editor ---
+.idea/
+.vscode/
+*.iml
+
+# --- Distribution / build ---
+build/
+dist/
+pip-wheel-metadata/

@@ -28,3 +28,6 @@ test-results/
 build/
 dist/
 pip-wheel-metadata/
+
+llm_crawler/records.json
+debug/
